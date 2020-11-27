@@ -7,6 +7,7 @@ from sklearn.linear_model import LinearRegression
 
 # %%
 dataset = pd.read_csv("final_3.csv")
+#comment for git
 
 # %%
 #Remove any invalid infinite value
